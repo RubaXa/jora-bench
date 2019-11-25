@@ -1,0 +1,21 @@
+{
+  "name": "jora-bench",
+  "version": "0.1.0",
+  "description": "jora benchmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "npm test"
+  },
+  "author": "RubaXa <ibn@rubaxa.org>",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "jora-1.0.0-alpha.5": "npm:jora@1.0.0-alpha.5",
+    "jora-1.0.0-alpha.6": "npm:jora@1.0.0-alpha.6",
+    "jora-1.0.0-alpha.7": "npm:jora@1.0.0-alpha.7",
+    "jora-1.0.0-alpha.8": "npm:jora@1.0.0-alpha.8",
+    "jora-1.0.0-alpha.9": "npm:jora@1.0.0-alpha.9",
+    "jora-1.0.0-alpha.10": "npm:jora@1.0.0-alpha.10"
+  }
+}
