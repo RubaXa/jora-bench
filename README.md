@@ -18,5 +18,5 @@ npm i --save jora-x.x.x@npm:jora@x.x.x
 
 ### Test cases
 
- - [tests](./src/](tests.js)
+ - [tests](./src/tests.js)
  - [fixture](fixture.js)
