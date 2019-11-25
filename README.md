@@ -2,6 +2,7 @@ jora bench
 ----------
 
 ```sh
+git clone git@github.com:RubaXa/jora-bench.git
 npn start
 ```
 
